@@ -9,18 +9,8 @@
  * @author Nicolas
  */
 public class Main {
-<<<<<<< HEAD
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-=======
     public static void main(String[] args) {
         System.out.println();
     }
->>>>>>> origin/master
 }
