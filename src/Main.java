@@ -9,6 +9,7 @@
  * @author Nicolas
  */
 public class Main {
+<<<<<<< HEAD
 
     /**
      * @param args the command line arguments
@@ -17,4 +18,9 @@ public class Main {
         // TODO code application logic here
     }
     
+=======
+    public static void main(String[] args) {
+        System.out.println();
+    }
+>>>>>>> origin/master
 }
